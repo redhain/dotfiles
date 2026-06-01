@@ -1,0 +1,36 @@
+:root {
+  --bg-dim: #141617;
+  --bg0: #1D2021;
+  --bg1: #282828;
+  --bg2: #282828;
+  --bg3: #3C3836;
+  --bg4: #3C3836;
+  --bg5: #504945;
+  --bg-diff-red: #3C1F1E;
+  --bg-diff-green: #32361A;
+  --bg-diff-blue: #0D3138;
+  --bg-statusline1: #282828;
+  --bg-statusline2: #32302F;
+  --bg-statusline3: #504945;
+  --bg-current-word: #32302F;
+  --bg-visual-red: #442E2D;
+  --bg-visual-green: #333E34;
+  --bg-visual-blue: #2E3B3B;
+  --bg-visual-yellow: #473C29;
+  --bg-visual-purple: #3C333B;
+  --fg0: #D4BE98;
+  --fg1: #DDC7A1;
+  --red: #EA6962;
+  --green: #A9B665;
+  --blue: #7DAEA3;
+  --yellow: #D8A657;
+  --purple: #D3869B;
+  --orange: #E78A4E;
+  --aqua: #89B482;
+  --bg-red: #EA6962;
+  --bg-green: #A9B665;
+  --bg-yellow: #D8A657;
+  --grey0: #7C6F64;
+  --grey1: #928374;
+  --grey2: #A89984;
+}
