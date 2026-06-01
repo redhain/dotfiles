@@ -1,20 +1,20 @@
 
-    OS → Arch Linux
-    WM → Hyprland
-    Terminal → Kitty
-    Shell → Fish
-    Bar → Waybar
-    Launcher → Rofi
-    Notifications → SwayNC
-    OSD → SwayOSD
-    Editor → Micro / VSCode
-    File Manager → Yazi + Nautilus
-    Music → MPD + rmpc
-    PDF Viewer → Zathura
-    Colors → Matugen
-    Wallpaper → awww
-    Theming → GTK + Kvantum
-    Utilities → btop, Fastfetch
+OS → Arch Linux
+WM → Hyprland
+Terminal → Kitty
+Shell → Fish
+Bar → Waybar
+Launcher → Rofi
+Notifications → SwayNC
+OSD → SwayOSD
+Editor → Micro / VSCode
+File Manager → Yazi + Nautilus
+Music → MPD + rmpc
+PDF Viewer → Zathura
+Colors → Matugen
+Wallpaper → awww
+Theming → GTK + Kvantum
+Utilities → btop, Fastfetch
 
 dotfiles/
 ├── btop
@@ -38,3 +38,12 @@ dotfiles/
 
 
 sudo pacman -S kitty fish rofi waybar swaync swayosd yazi fastfetch btop mpd rmpc zathura stow python
+
+
+AUR packages needed:
+
+    matugen
+    awww
+    rofi-wayland
+    Nerd Fonts (e.g. ttf-jetbrains-mono-nerd)
+ 
